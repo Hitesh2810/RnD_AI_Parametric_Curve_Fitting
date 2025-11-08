@@ -1,0 +1,9 @@
+Best-fit parameters:
+Theta (radians): 0.49074119
+Theta (degrees): 28.11739904
+M: 0.02138328
+X: 54.89894198
+L1 Loss: 37865.09498641
+
+LaTeX Equation:
+\left(t\cos(0.49074119) - e^{0.02138328|t|}\sin(0.3t)\sin(0.49074119) + 54.89894198,\ 42 + t\sin(0.49074119) + e^{0.02138328|t|}\sin(0.3t)\cos(0.49074119)\right)
