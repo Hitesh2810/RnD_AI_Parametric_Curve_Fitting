@@ -31,7 +31,9 @@ y = 42 + t·sin(θ) + e^(M|t|)·sin(0.3t)·cos(θ)
 
 ### Unknowns and their ranges:
 0° < θ < 50°
+
 −0.05 < M < 0.05
+
 0 < X < 100
 
 ### Parameter t range:
