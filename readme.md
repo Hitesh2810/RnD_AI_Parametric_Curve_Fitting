@@ -102,7 +102,7 @@ y = 42 + t·sin(0.4907) + e^(0.0210|t|)·sin(0.3t)·cos(0.4907)
 
 The complete code is available in **fit_curve.py**.
 
-Key libraries:
+Key libraries:-
 ```python
 import numpy as np
 import pandas as pd
