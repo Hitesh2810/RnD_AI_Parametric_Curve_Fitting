@@ -79,6 +79,25 @@ Saved as **data_vs_model.png**
 
 ---
 
+## 📊 Results
+
+| Parameter | Symbol | Estimated Value | Range |
+|------------|----------|-----------------|--------|
+| Angle | θ | 0.4907 radians (≈ 28.11°) | 0° < θ < 50° |
+| Exponential Factor | M | 0.0210 | −0.05 < M < 0.05 |
+| Translation Constant | X | 54.90 | 0 < X < 100 |
+
+**Final L1 Loss:** 37,865.12
+---
+
+## 🧩 Final Parametric Equation
+
+Final estimated model:
+```
+x = t·cos(0.4907) − e^(0.0210|t|)·sin(0.3t)·sin(0.4907) + 54.9000
+y = 42 + t·sin(0.4907) + e^(0.0210|t|)·sin(0.3t)·cos(0.4907)
+```
+
 ## 💻 Code Used
 
 The complete code is available in **fit_curve.py**.
