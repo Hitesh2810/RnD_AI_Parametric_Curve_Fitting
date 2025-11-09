@@ -17,7 +17,8 @@ This project focuses on estimating the unknown parameters **θ**, **M**, and **X
 ### Academic Integrity
 - **No Cheating:** All work has been done independently without unauthorized assistance.  
 - **No Copying or Plagiarism:** This report and code are completely original.  
-- **Proper Citation:** Concepts and equations are based on given assignment data and standard optimization methods.
+- **Proper Citation:** All mathematical models and equations are derived from the assignment prompt.
+Optimization and data-fitting techniques follow standard open-source Python libraries (SciPy, NumPy, and Matplotlib documentation)
 
 ---
 
